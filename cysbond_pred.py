@@ -1,3 +1,11 @@
+'''
+Autor: Samuel Lozano Juárez
+Correspondencia: salojua@alumni.uv.es | samuellozanojuarez@gmail.com
+Fecha: 26/05/2024
+Institución: Universitat de València | Máster en Bioinformática
+Versión: 1.0
+'''
+
 #importamos los paquetes necesarios
 #si alguno no está instalado lo instala
 import os
