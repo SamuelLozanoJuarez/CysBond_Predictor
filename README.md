@@ -10,6 +10,9 @@ Se trata de un script de Python que permite identificar potenciales puentes disu
 
 ## ¿Qué se incluye en el repositorio?
 
+ - `cysbond_pred.py` es el script con el código del programa.
+ - `Manual_usuario_CysBond_Predictor.pdf` es el documento con las instrucciones para el uso del programa, los distintos parámetros de entrada y salidas proporcionadas, así como ejemplos de uso del script.
+ - `ejemplos/` es la carpeta que contiene los ficheros PDB con la estructura de proteínas que se proporcionan como ejemplos y cuyo análisis se describe en el Manual. Incluye 10 ficheros PDB correspondientes a distintas proteínas, obtenidos experimentalmente o mediante predicción.
 
 ## Dependencias necesarias
 
